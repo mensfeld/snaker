@@ -8,11 +8,11 @@ Instead of hunting for a rabbit, we hunt for a Ruby gem.
 
 You control the snake with following keys:
 
-- Arrow up - snake goes up
-- Arrow left - snake goes left
-- Arrow right - snake goes right
-- Arrow down - snake goes down
-- Any other key - you've lost
+- `Arrow up` - snake goes up
+- `Arrow left` - snake goes left
+- `Arrow right` - snake goes right
+- `Arrow down` - snake goes down
+- `Any other key` - you've lost
 
 ## Source code
 
