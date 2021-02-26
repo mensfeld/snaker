@@ -33,7 +33,7 @@ floor}#{U}Gems:#{($u*10).round(0)}";print(U);sleep(0.3-$u.floor.to_f/50.0)}
 0]):((k=='[B')?([1,0]):((k=='[C')?([0,1]):((k.eql?'[D')?([0,-1]):(exit))))}
 ```
 
-### Running 
+### Playing the game 
 
 ```
 gem install snake-game
