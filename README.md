@@ -40,9 +40,7 @@ gem install snake-game
 snake-game
 ```
 
-or
-
-Save the above code into a `game.rb` file and run it as followed:
+or save the above code into a `game.rb` file and run it as followed:
 
 ```
 ruby game.rb
