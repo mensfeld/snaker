@@ -2,7 +2,9 @@
 
 Pure Ruby implementation of the Snake game that you can play on your production servers while pretending to work.
 
-![Demo](./demo.svg)<img src="./demo.svg">
+<p align="center">
+  <img src="./demo.svg">
+</p>
 
 Instead of hunting for a rabbit, we hunt for a Ruby gem.
 
