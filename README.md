@@ -40,7 +40,7 @@ gem install snaker
 snaker
 ```
 
-or save the above code into a `game.rb` file and run it as followed:
+or save the above code into a `snaker.rb` file and run it as followed:
 
 ```
 ruby snaker.rb
