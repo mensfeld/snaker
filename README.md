@@ -2,7 +2,7 @@
 
 Pure Ruby implementation of the Snake game that you can play on your production servers while pretending to work.
 
-[![asciicast](https://asciinema.org/a/46WdlVw1Auxo7xINYN7HES4v5.svg)](https://asciinema.org/a/46WdlVw1Auxo7xINYN7HES4v5)
+![Demo](./demo.svg)<img src="./demo.svg">
 
 Instead of hunting for a rabbit, we hunt for a Ruby gem.
 
