@@ -36,16 +36,16 @@ floor}#{U}Gems:#{($u*10).round(0)}";print(U);sleep(0.3-$u.floor.to_f/50.0)}
 ### Playing the game 
 
 ```
-gem install snake-game
-snake-game
+gem install snaker
+snaker
 ```
 
 or save the above code into a `game.rb` file and run it as followed:
 
 ```
-ruby snake-game.rb
+ruby snaker.rb
 # Or provide a board size as the first argument
-ruby snake-game.rb 20
+ruby snaker.rb 20
 ```
 
 ## Features
