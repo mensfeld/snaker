@@ -1,5 +1,3 @@
-## Description
-
 Pure Ruby implementation of the Snake game that you can play on your production servers while pretending to work.
 
 <p align="center">
@@ -15,6 +13,8 @@ You control the snake with following keys:
 - Arrow right - snake goes right
 - Arrow down - snake goes down
 - Any other key - you've lost
+
+## Source code
 
 ```ruby
 R="\e[31m\u25C6\e[0m\e[32m ";U="\n\r";B="\u25FC ";Y="\u25CB ";$t=ARGV.first
@@ -35,25 +35,20 @@ floor}#{U}Gems:#{($u*10).round(0)}";print(U);sleep(0.3-$u.floor.to_f/50.0)}
 
 ### Running 
 
-Just run it with no arguments to play on a default board (12x12):
+Save the above code into a `game.rb` file and run it as followed:
 
 ```
 ruby game.rb
+# Or provide a board size as the first argument
+ruby game.rb 20
 ```
 
 or as a gem:
 
 ```
 gem install snake-game
-ruby costam
+snake-gem
 ```
-
-or provide a board size as the first argument:
-
-```
-ruby entry.rb 20
-```
-
 
 ## Features
 
