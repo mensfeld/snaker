@@ -43,9 +43,9 @@ snake-game
 or save the above code into a `game.rb` file and run it as followed:
 
 ```
-ruby game.rb
+ruby snake-game.rb
 # Or provide a board size as the first argument
-ruby game.rb 20
+ruby snake-game.rb 20
 ```
 
 ## Features
