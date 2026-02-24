@@ -39,13 +39,6 @@ jobs:
       - name: Run tests
         run: bundle exec rake test
 
-      - name: Upload coverage
-        if: matrix.ruby == '3.4'
-        uses: codecov/codecov-action@v4
-        with:
-          files: coverage/coverage.xml
-          fail_ci_if_error: false
-
   rubocop:
     name: Rubocop
     runs-on: ubuntu-latest
